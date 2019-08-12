@@ -1,0 +1,5 @@
+name: QuestLibExample
+main: nl.themelvin.questlibexample.ExamplePlugin
+version: 1.0.0
+author: TheMelvinNL
+commands:
